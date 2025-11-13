@@ -69,4 +69,5 @@ Run the file index.html in your browser.
 👩‍💻 **Developed By**
 
 Delfie Deril
+
 SkillCraft Technology – Web Development Internship
