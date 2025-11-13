@@ -1,61 +1,60 @@
-🎯 SCT_WD_3
-🕹️ Tic-Tac-Toe Web Application
-📌 Project Overview
+🎯 SCT_WD_3 – Tic-Tac-Toe Web Application
+📘 Overview
 
 This project is part of the SkillCraft Technology Web Development Internship (Task 03).
-The goal is to build a Tic-Tac-Toe web application where two players (or a player and the computer) can play interactively through a web interface.
+The goal of this task is to design and develop an interactive Tic-Tac-Toe web application where two players (or a player and the computer) can play dynamically through a responsive web interface.
 
-💡 Features
+The project focuses on handling user interactions, maintaining game state, and detecting winning or draw conditions using HTML, CSS, and JavaScript.
 
-🎮 Two-player mode (Player vs Player)
+✨ Features
 
-💻 Option to play against the computer (Player vs Computer)
+🎮 Two-Player Mode – Play against another player on the same device.
 
-🧠 Tracks game state dynamically
+💻 Play vs Computer – Challenge a computer opponent for solo play.
 
-✅ Detects winning combinations automatically
+🧠 Dynamic Game State – Tracks player moves and updates the board automatically.
 
-🔁 Displays draw conditions
+✅ Win Detection – Checks for winning combinations after every move.
 
-🔄 Reset button to start a new game
+🌀 Draw Condition – Declares a tie when all cells are filled.
 
-🎨 Simple and responsive UI
+🔄 Reset Functionality – Quickly restart the game with a single click.
+
+🎨 Responsive UI – Works seamlessly on desktops, tablets, and mobile devices.
+
+🌈 Clean and Minimal Design – Simple, elegant, and engaging interface.
 
 🧩 Technologies Used
 
-HTML – for structure
+HTML – for the structure of the web page.
 
-CSS – for styling and layout
+CSS – for styling, layout, and responsive design.
 
-JavaScript – for interactivity and game logic
+JavaScript – for handling logic, interactions, and game state management.
 
 ⚙️ How It Works
 
-The board is a 3×3 grid.
+The board consists of a 3×3 grid.
 
-Players take turns clicking empty cells to place “X” or “O”.
+Players alternate turns placing “X” or “O” in available cells.
 
-JavaScript tracks each move and checks for:
+The program checks for a winner or draw after each move.
 
-A win (three in a row, column, or diagonal)
+A message is displayed when a player wins or when the game ends in a draw.
 
-A draw (when all cells are filled and no winner)
+Players can reset the board anytime to play again.
 
-The game displays the result and allows resetting.
+🧠 Learning Outcomes
 
-🧠 Learning Outcome
+This project helped in understanding:
 
-This project helped me understand:
+DOM manipulation and event handling in JavaScript.
 
-Event handling in JavaScript
+Implementing conditional logic for gameplay.
 
-DOM manipulation
+Tracking and updating dynamic states in real-time.
 
-Game state management
-
-Logic implementation for win/draw detection
-
-Enhancing UI responsiveness
+Creating responsive and visually appealing layouts.
 
 🚀 How to Run
 
@@ -63,7 +62,7 @@ Clone or download the repository.
 
 Open the folder SCT_WD_3.
 
-Run the file index.html in any modern browser.
+Run the file index.html in your browser.
 
 📁 Folder Structure
 SCT_WD_3/
