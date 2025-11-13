@@ -1,6 +1,7 @@
 **🎯 SCT_WD_3 – Tic-Tac-Toe Web Application**
 
 **📘 Overview**
+
 This project is part of the SkillCraft Technology Web Development Internship (Task 03).
 
 The goal of this task is to design and develop an interactive Tic-Tac-Toe web application where two players (or a player and the computer) can play dynamically through a responsive web interface.
