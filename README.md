@@ -1,12 +1,13 @@
-🎯 SCT_WD_3 – Tic-Tac-Toe Web Application
-📘 Overview
+**🎯 SCT_WD_3 – Tic-Tac-Toe Web Application**
 
+**📘 Overview**
 This project is part of the SkillCraft Technology Web Development Internship (Task 03).
+
 The goal of this task is to design and develop an interactive Tic-Tac-Toe web application where two players (or a player and the computer) can play dynamically through a responsive web interface.
 
 The project focuses on handling user interactions, maintaining game state, and detecting winning or draw conditions using HTML, CSS, and JavaScript.
 
-✨ Features
+**✨ Features**
 
 🎮 Two-Player Mode – Play against another player on the same device.
 
@@ -24,7 +25,7 @@ The project focuses on handling user interactions, maintaining game state, and d
 
 🌈 Clean and Minimal Design – Simple, elegant, and engaging interface.
 
-🧩 Technologies Used
+**🧩 Technologies Used**
 
 HTML – for the structure of the web page.
 
@@ -32,7 +33,7 @@ CSS – for styling, layout, and responsive design.
 
 JavaScript – for handling logic, interactions, and game state management.
 
-⚙️ How It Works
+**⚙️ How It Works**
 
 The board consists of a 3×3 grid.
 
@@ -44,7 +45,7 @@ A message is displayed when a player wins or when the game ends in a draw.
 
 Players can reset the board anytime to play again.
 
-🧠 Learning Outcomes
+**🧠 Learning Outcomes**
 
 This project helped in understanding:
 
@@ -56,7 +57,7 @@ Tracking and updating dynamic states in real-time.
 
 Creating responsive and visually appealing layouts.
 
-🚀 How to Run
+**🚀 How to Run**
 
 Clone or download the repository.
 
@@ -64,7 +65,7 @@ Open the folder SCT_WD_3.
 
 Run the file index.html in your browser.
 
-👩‍💻 Developed By
+👩‍💻 **Developed By**
 
 Delfie Deril
 SkillCraft Technology – Web Development Internship
