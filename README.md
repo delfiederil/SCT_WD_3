@@ -64,14 +64,6 @@ Open the folder SCT_WD_3.
 
 Run the file index.html in your browser.
 
-📁 Folder Structure
-SCT_WD_3/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 👩‍💻 Developed By
 
 Delfie Deril
